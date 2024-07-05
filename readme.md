@@ -1,4 +1,4 @@
- # This Python script generates realistic synthetic ticket data for testing and analysis purposes. It creates a CSV file containing a specified number of tickets with various attributes like user information, error types, descriptions, and categories.
+ # This Python script generates realistic synthetic ticket data for testing and analysis purposes. It creates a CSV file containing a specified number of tickets with various attributes like user information, error types, descriptions, and categories
 
  ## Features
 - **Realistic Data:** Uses the Faker library to generate believable user names, email addresses, and timestamps.
